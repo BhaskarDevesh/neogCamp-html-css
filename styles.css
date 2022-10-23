@@ -64,3 +64,20 @@ hr{
 .navigation .link-active{
     font-weight: bold;
 }
+
+.hero{
+    padding: 2rem;
+    text-align: center;
+}
+.hero .hero-img{
+    max-width: 350px;
+    display: block;
+    margin: auto;
+}
+.hero .hero-heading{
+    padding-top: 1rem;
+
+}
+.hero .hero-heading .heading-inverted{
+    color: var(--primary-color);
+}
